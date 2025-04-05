@@ -1,4 +1,8 @@
-## Hi there 👋
+- I'm James Vidal, a UCSD student pursuing B.S. in Data Science
+- Currently Learning Python and Java for Data Analysis and Visualisation
+- Contact Info: [LinkedIn](https://www.linkedin.com/in/jamesrvidal/), james.vidal2006@gmail.com or jrvidal@ucsd.edu
+- [Resume](https://docs.google.com/document/d/1vjJYPcy4f7vTDTiUrJYA6sOauhwvwURcAiXy8Xbtd6U/edit?usp=sharing)
+
 
 <!--
 **jamrvidal/jamrvidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
